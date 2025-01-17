@@ -56,13 +56,6 @@ while True:
     # Dừng 1 phút trước khi lấy dữ liệu mới
     time.sleep(60)
 
-# =============================================================================
-
-# # Running the App - mở terminal của Anaconda và gõ lệnh:
-# # Bước 1 - truy cập đến đường dẫn: cd C:\Users\X1 Carbon Gen 7\VTI_PythonLesson09
-# # Bước 2 - chạy file: streamlit run yFinance_Streamlit.py
-# =============================================================================
-
 
 
 
