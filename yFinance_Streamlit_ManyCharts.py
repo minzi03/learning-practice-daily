@@ -69,14 +69,14 @@ def create_correlation_heatmap(ax, data):
 
 st.set_page_config(page_title="Apple Stock Analysis", layout="wide")
 
-st.sidebar.title("Apple Stock Analysis by Huy Nguyen Quoc")
+st.sidebar.title("Apple Stock Analysis by Duy Nguyen")
 st.sidebar.markdown("""
 ## About
 This app provides real-time analysis of Apple (AAPL) stock prices using various types of charts. 
 The data is fetched every minute to keep the information up-to-date.
 """)
 
-st.title('Apple Stock Analysis by Huy Nguyen Quoc')
+st.title('Apple Stock Analysis by Duy Nguyen')
 st.markdown("""
 ### Overview
 This application displays various charts to analyze the stock prices of Apple Inc. (AAPL). 
@@ -106,4 +106,3 @@ while True:
     st.write(f"### Latest Price ({latest_time}): ${latest_price:.2f}")
     
     time.sleep(60)
-

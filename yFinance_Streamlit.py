@@ -55,14 +55,3 @@ while True:
     
     # Dừng 1 phút trước khi lấy dữ liệu mới
     time.sleep(60)
-
-
-
-
-
-
-
-
-
-
-
