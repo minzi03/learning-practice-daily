@@ -52,7 +52,7 @@ def create_correlation_heatmap(data):
 
 st.set_page_config(page_title="Stock Analysis", layout="wide")
 
-st.sidebar.title("Stock Analysis by Huy Nguyen Quoc")
+st.sidebar.title("Stock Analysis by Duy Nguyen")
 st.sidebar.markdown("""
 ## About
 This app provides real-time analysis of selected stock prices using various types of charts. 
