@@ -4,7 +4,7 @@ Created on Thu Nov 14 16:31:41 2024
 
 @author: X1 Carbon Gen 7
 """
-# Thêm các thư viện cần thiết
+
 import streamlit as st
 import yfinance as yf
 import matplotlib.pyplot as plt
