@@ -10,8 +10,7 @@ Created on Thu Nov 14 11:15:34 2024
 # =============================================================================
 
 # pip install streamlit
-
-# Import các thư viện cần thiết    
+  
 import streamlit as st
 import yfinance as yf
 import matplotlib.pyplot as plt
