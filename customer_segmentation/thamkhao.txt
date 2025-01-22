@@ -1,0 +1,3 @@
+https://github.com/PrayagRD/Online-Customer-Segmentation
+https://github.com/Taweilo/mall-customer-segmentation
+https://github.com/Jess607/Customer-segmentation-Analysis
